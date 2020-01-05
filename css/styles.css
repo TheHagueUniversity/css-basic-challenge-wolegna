@@ -138,6 +138,22 @@ h3 {
   background: rgba(47, 48, 97, 80%);
 }
 
+/* Gallery
+------------------------------------*/
+.gallery {
+background: red;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 5px;
+  width: 200px;
+  margin-right: 5%;
+}
+img:hover {
+  border: 2px solid gray;
+}
+
 
 /* Education
 ------------------------------------*/
